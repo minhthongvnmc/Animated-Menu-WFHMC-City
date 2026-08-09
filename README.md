@@ -1,6 +1,10 @@
 # Animated-Menu-WFHMC-City
 Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, featuring a highly lively design and a distinctive style.
 
+<img width="2340" height="1080" alt="1000721514" src="https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9" />
+
+
+
 # 📌 General Information
 Project Name: Animated Menu: WFHMC City
 Initial Release Date: August 8, 2026
