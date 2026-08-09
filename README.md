@@ -74,3 +74,4 @@ Join Discord today to get the latest updates and become part of the WFHMC City c
 
 ### ✉️ Contact Support
 If you have any questions, please contact us via email here:
+minhthongvnmcstudio@gmail.com
