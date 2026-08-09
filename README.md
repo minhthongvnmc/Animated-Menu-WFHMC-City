@@ -39,3 +39,38 @@ User interface:
 All menu options (Play, Settings, Skins, Friends...) are retained and easy to read, ensuring players can navigate as easily as the default screen.
 
 The game version (Minecraft v26.40) and Mojang Studios' license are clearly displayed in the bottom right corner.
+
+### Discord Severs
+Join Discord today to get the latest updates and become part of the WFHMC City community!
+| | |
+| :--- | :--- |
+| **DISCORD** | [![WFHMC City Official](https://img.shields.io/badge/WFHMC%20City%20Official-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S9TjrjMJnN) |
+
+
+---
+
+### 📱 Follow Us
+
+| | |
+| :--- | :--- |
+| **YOUTUBE** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
+
+
+| | |
+| :--- | :--- |
+| **TIKTOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
+
+
+| | |
+| :--- | :--- |
+| **X** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
+
+
+| | |
+| :--- | :--- |
+| **FACEBOOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhthongvnmcstudio) |
+
+---
+
+### ✉️ Contact Support
+If you have any questions, please contact us via email here:
