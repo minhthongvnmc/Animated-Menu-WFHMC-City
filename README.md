@@ -54,7 +54,7 @@ Join our Discord community to stay up to date with the latest news and updates!
 | **YouTube** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
 | **TikTok** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
 | **X (Twitter)** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
-| **Facebook** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhthongvnmcstudio) |
+| **Facebook** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JC6pRTRDu/) |
 
 ---
 
