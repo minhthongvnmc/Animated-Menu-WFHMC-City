@@ -4,7 +4,7 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9" alt="Animated Menu Preview" width="100%" />
+![Animated Menu Preview](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
 
 <br/>
 
@@ -22,7 +22,7 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 
 > [!NOTE]
 > # PROJECT OVERVIEW
-> **Animated Menu: WFHMC City** is a visual and graphic enhancement pack designed specifically for the Minecraft UI/Title Screen. It replaces standard backgrounds with a fully animated, high-quality cityscape theme.
+> **Animated Menu: WFHMC City** is a visual and graphic enhancement pack designed specifically for Minecraft UI/Title Screen. It replaces standard backgrounds with a fully animated, high-quality cityscape theme.
 
 > [!WARNING]
 > # IMPORTANT NOTICE
