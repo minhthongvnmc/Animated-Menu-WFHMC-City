@@ -8,7 +8,7 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 
 <br/>
 
-[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
 [![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
 [![License](https://img.shields.io/badge/License-MIT-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/blob/main/LICENSE)
 
@@ -22,10 +22,10 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 
 > [!NOTE]
 > # PROJECT OVERVIEW
-> **Animated Menu: WFHMC City** is a visual and graphic enhancement pack designed specifically for the Minecraft Title Screen UI. It replaces standard background panoramas with a fully animated, high-quality cityscape theme.
+> **Animated Menu: WFHMC City** is a visual and graphic enhancement pack designed specifically for Minecraft UI/Title Screen. It replaces standard backgrounds with a fully animated, high-quality cityscape theme.
 
-> [!WARNING]
-> # IMPORTANT NOTICE
+> [!IMPORTANT]
+> # SYSTEM REQUIREMENT
 > Ensure your client environment supports custom title screen shaders and menu modifications for full visual compatibility and optimal animation performance.
 
 ---
@@ -37,7 +37,7 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 - **Author / Studio:** MinhthongVNMC Studio
 - **Category:** Minecraft Main Menu UI / Custom Animated Background
 
-This project transforms Minecraft's default title screen into a stunning, colorful cityscape. Rather than just a standard Minecraft map, it represents a seamless blend of innovative building techniques and advanced graphical enhancements, delivering a peaceful, livable atmosphere set within WFHMC City.
+This project transforms Minecraft's default title screen into a stunning, colorful cityscape. Rather than just a standard Minecraft map, it represents a seamless blend of innovative building techniques and advanced graphical enhancements, delivering a peaceful, livable atmosphere set within the familiar WFHMC City.
 
 ---
 
@@ -45,20 +45,20 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 * **Vibrant Natural Scenery:**
   * Lush green foliage surrounding cozy, rustic wooden structures.
-  * Blooming flowers featuring bold red roses that provide striking visual contrast.
-  * A clear sky seamlessly reflected on the calm waters of a nearby canal, enhancing spatial depth and symmetry.
+  * Blooming flowers, featuring bold red roses that provide striking contrast.
+  * A clear sky seamlessly reflected on the calm waters of a nearby lake or canal, enhancing depth and symmetry.
 
 * **Realistic Shader Lighting & Shadows:**
-  * Advanced shader implementation provides life-like sunlight filtering through leaf canopies to generate dynamic light patches and real-time soft shadows.
-  * Water surface rendering includes realistic refraction and shimmering reflection effects.
+  * Advanced shader implementation provides life-like sunlight filtering through tree leaves to produce dynamic light patches and shadows.
+  * Water rendering includes surface refraction and shimmering reflection effects.
 
 * **Familiar Minecraft Urban Environment:**
-  * Traditional wooden housing, fencing, and street lamps create a warm, residential neighborhood aesthetic.
-  * Prominently displays a red flag with a yellow star as a distinct accent, symbolizing national pride and community identity within the game.
+  * Traditional wooden housing, fencing, and street lighting create a warm, residential neighborhood feeling.
+  * Displays a red flag with a yellow star as a distinct highlight, symbolizing national pride and community identity within the game.
 
 * **Optimized User Interface:**
-  * Preserves all essential main menu navigation options (Play, Settings, Skins, Friends) for seamless usability.
-  * Features a clean, uncluttered layout displaying current version details and copyright information.
+  * Preserves all essential menu navigation buttons (Play, Settings, Skins, Friends) for seamless usability.
+  * Clean layout displaying version details (Minecraft v26.40) and standard copyright information.
 
 ---
 
@@ -66,15 +66,15 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 ### Official Downloads
 
-| Build Profile | Version / Tag | Live Download Metrics | Link |
+| Build Profile | Version / Tag | Real-time Download Metrics | Download Link |
 | :---: | :---: | :---: | :---: |
-| **Official Release** | `V1.0.0_Beta1` | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/V1.0.0_Beta1/total?style=flat-square&color=17a2b8&label=Total%20Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
+| **Official Release** | `V1.0.0_Beta1` | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Live%20Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) | [**Download Latest Release**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
 
 ---
 
 ### 💬 Discord Server
 
-Join our Discord community to stay updated with the latest news, updates, and announcements!
+Join our Discord community to stay up to date with the latest news and updates!
 
 | Platform | Link |
 | :--- | :--- |
@@ -95,13 +95,13 @@ Join our Discord community to stay updated with the latest news, updates, and an
 
 ### ✉️ Contact Support
 
-For inquiries or technical support, please reach out via email:  
+For inquiries or support, please reach out via email:  
 **minhthongvnmcstudio@gmail.com**
 
 ---
 
 ## 📜 Disclaimer & License
 
-This project is an unofficial fan-made custom main menu modification for Minecraft. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This project is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
+This project is an unofficial custom main menu modification for Minecraft. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This project is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
 
-All assets, build designs, and media contained within this project belong to **MinhthongVNMC Studio** and their respective owners.
+All rights to assets, build designs, and media contained in this project belong to **MinhthongVNMC Studio** and their respective owners.
