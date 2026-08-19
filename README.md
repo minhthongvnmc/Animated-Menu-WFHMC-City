@@ -1,35 +1,49 @@
-<img width="1036" height="252" alt="WFHMC City Header" src="https://github.com/user-attachments/assets/49482640-1961-456e-8f23-cb83ee7c337e" />
-
-# WFHMC City & Animated Menu (Bedrock Edition)
+<img width="1036" height="252" alt="WFHMC City Banner" src="https://github.com/user-attachments/assets/49482640-1961-456e-8f23-cb83ee7c337e" />
 
 | Feature | Details |
 | :--- | :--- |
-| **RELEASE** | [![Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?include_prereleases&style=for-the-badge&color=2EA44F&label=)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
+| **RELEASE** | [![Release](https://img.shields.io/github/v/release/minhthongvnmc/WFHMC-City?include_prereleases&style=for-the-badge&color=2EA44F&label=)](https://github.com/minhthongvnmc/WFHMC-City/releases) |
 | **LICENSE** | [![License](https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE) |
-| **DOWNLOADS** | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
-| **DOWNLOADS COUNT** | [![Downloads](https://img.shields.io/github/downloads-pre/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&color=2EA44F&label=DOWNLOADS)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
+| **DOWNLOADS** | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases) |
+| **DOWNLOADS COUNT** | [![Downloads](https://img.shields.io/github/downloads-pre/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=2EA44F&label=DOWNLOADS)](https://github.com/minhthongvnmc/WFHMC-City/releases) |
 
 ---
 
-### ⚠️ NOTICE & COPY WARNING
+# WFHMC City & Animated UI Suite (Bedrock Edition)
 
-> **PLEASE READ CAREFULLY BEFORE DOWNLOADING / USING:**  
-> - **Copyright & Protection:** Redistribution, unauthorized copying, or reuploading of this project or its asset packs without explicit authorization from **MinhthongVNMC Studio** is strictly prohibited.  
-> - **Commercial Use:** Any commercial use or monetization involving this project, map, or custom menu assets is strictly forbidden under the **Creative Commons Attribution-NonCommercial 3.0 (CC BY-NC 3.0)** license.  
-> - **Client Compatibility:** Ensure your client environment supports custom UI title screen shaders and menu modifications for full visual compatibility and optimal animation performance.  
-> - **Official Source Only:** Always download directly from official links to guarantee project safety, security, and access to new updates.
+**WFHMC City** (formerly *World Flat House Map*) is a large-scale, highly detailed urban development project in Minecraft Bedrock Edition, developed by **MinhthongVNMC Studio**. First released as an alpha version on May 29, 2023, it represents a continuous creative effort to transform a flat world into a vibrant, modern city, complete with dedicated visual enhancements like custom animated main menus.
 
 ---
 
-# 📌 Project Information
+### ⚠️ IMPORTANT NOTICE & COPY WARNING
 
-**WFHMC City** (formerly World Flat House Map) is a large-scale, highly detailed urban development project in Minecraft Bedrock Edition, developed by **MinhthongVNMC Studio**. First released as an alpha version on May 29, 2023, it represents a seamless blend of innovative building techniques and advanced graphical enhancements, delivering a vibrant and modern city environment alongside custom UI menu themes.
+> **PLEASE READ CAREFULLY BEFORE DOWNLOADING OR USING:**  
+> - **Copyright & Attribution:** This project is licensed under **Creative Commons Attribution-NonCommercial 3.0 (CC BY-NC 3.0)**. Redistribution, reuploading, or publishing unauthorized copies/modifications on any platform without explicit permission from MinhthongVNMC Studio is strictly prohibited.  
+> - **Client Environment:** Ensure your client environment supports custom title screen shaders and menu modifications for full visual compatibility and optimal animation performance.  
+> - **Commercial Use:** Any commercial use or monetization involving this project or its assets is strictly forbidden.  
+> - **Official Links Only:** Download exclusively from our official release channels listed below to guarantee safety, integrity, and access to new updates.
+
+---
+
+### 📌 Project Information
 
 - **Project Name:** WFHMC City & Animated Menu (Bedrock Edition)
 - **Main Developer / Studio:** MinhthongVNMC Studio
 - **Platform:** Minecraft Bedrock Edition
 - **Initial Creation Date:** May 29, 2023
-- **Current Status:** Beta Version *(Official full release scheduled for December 2027)*
+- **Current Status:** Beta Version *(Official release scheduled for December 2027)*
+
+---
+
+### ✨ Key Features & Highlights
+
+* **Large-Scale Urban Environment:**
+  * Detailed residential zones, wooden housing, fencing, and realistic street lighting.
+  * National pride highlight featuring a red flag with a yellow star.
+* **Animated Menu & Visual Enhancements:**
+  * Transforms the standard title screen into a vibrant cityscape UI with customizable shaders.
+  * Lush green foliage, blooming red roses, dynamic sun filtering, and natural water reflection effects.
+  * Preserves essential menu navigation buttons (Play, Settings, Skins, Friends) for smooth usability.
 
 ---
 
@@ -40,38 +54,24 @@
 
 ---
 
-### ✨ Key Features
+### 📥 Project Downloads
 
-* **Vibrant Cityscape & Natural Scenery:**
-  * Highly detailed urban architecture with lush green foliage and rustic residential structures.
-  * Blooming flowers and red rose accents providing striking visual contrast.
-  * Clear skies reflected on calm waters, lakes, and canal networks.
+#### 🔹 Primary Downloads (GitHub Releases)
+| Component | Download Link | Real-Time Downloads |
+| :--- | :--- | :---: |
+| **WFHMC City Map** | [**Download World Map**](https://github.com/minhthongvnmc/WFHMC-City/releases) | [![Map Downloads](https://img.shields.io/github/downloads-pre/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=2EA44F&label=DOWNLOADS)](https://github.com/minhthongvnmc/WFHMC-City/releases) |
+| **Animated Menu Pack** | [**Download Animated Menu**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) | [![Menu Downloads](https://img.shields.io/github/downloads-pre/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&color=2EA44F&label=DOWNLOADS)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
 
-* **Realistic Shader Lighting & Shadows:**
-  * Advanced shader implementation producing dynamic light patches through tree leaves.
-  * Enhanced surface refraction and shimmering reflection effects on water bodies.
-
-* **Custom Animated Title Screen:**
-  * Replaces standard Minecraft UI backgrounds with a dynamic animated cityscape menu.
-  * Optimized interface preserving all core navigation buttons (Play, Settings, Skins, Friends).
-
----
-
-# 📥 Map & Project Downloads
-
-#### 🔹 Primary Download (GitHub Releases)
-[![GitHub Direct Download](https://img.shields.io/badge/GitHub--Releases-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
-
-#### 🔹 Other Providers
+#### 🔹 Other Provider Platforms
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition)
 [![MCPEDL](https://img.shields.io/badge/MCPEDL-538332?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/wfhmc-city-bedrock-edition)
 [![PlanetMinecraft](https://img.shields.io/badge/PlanetMinecraft-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map)
 
 ---
 
-### 💬 Community & Discord Server
+### 💬 Discord Server
 
-Join our Discord server to get the latest project updates and become part of the WFHMC City community!
+Join our Discord server to get the latest updates and become part of the WFHMC City community!
 
 | Platform | Link |
 | :--- | :--- |
@@ -92,13 +92,5 @@ Join our Discord server to get the latest project updates and become part of the
 
 ### ✉️ Contact Support
 
-For questions, inquiries, or support, please reach out via email:  
+If you have any questions or inquiries, please reach out via email:  
 **minhthongvnmcstudio@gmail.com**
-
----
-
-## 📜 Disclaimer & License
-
-This project is an unofficial fan-made modification and map project for Minecraft. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This project is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
-
-All rights to assets, build designs, and media contained in this project belong to **MinhthongVNMC Studio** and their respective owners.
