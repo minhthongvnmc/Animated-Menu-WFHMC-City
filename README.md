@@ -1,29 +1,24 @@
-<div align="center">
-
 # Animated Menu: WFHMC City
 
-### A Dynamic & Custom Main Menu Project for Minecraft
+Animated Menu: WFHMC City is a dynamic, custom main menu UI project for Minecraft, featuring a highly vibrant design and a distinctive visual style.
+
+![Animated Menu Preview](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
 
 <br/>
+
+<div align="center">
 
 [![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=dc3545&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
 [![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
 
-<br/>
-
-[**Download Release**](#-download--release-options) · [**Key Features**](#-key-features) · [**General Info**](#-general-information) · [**Community & Social**](#-discord-server)
-
 </div>
-
----
-
-![Animated Menu Preview](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
 
 ---
 
 # 📌 General Information
 
 - **Project Name:** Animated Menu: WFHMC City
+- **Project Type:** Minecraft UI / Custom Title Screen Pack
 - **Initial Release Date:** August 8, 2026
 - **Author / Studio:** MinhthongVNMC Studio
 
@@ -52,13 +47,11 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 ---
 
-### 📥 Download & Release Options
+### 📥 Download & Releases
 
-Get the latest release of the Animated Menu for your Minecraft client below:
-
-| Package | Version / Metrics | Download Link |
-| :---: | :---: | :---: |
-| **Animated Menu WFHMC City** | [![Release Version](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=flat-square&color=dc3545&label=Release)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) [![Download Counts](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
+| Build Profile | Version Status | Metrics | Package Link |
+| :---: | :---: | :---: | :---: |
+| **Official Beta Build** | V1.0.0_Beta1 | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) | [**Download Beta Release**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
 
 ---
 
