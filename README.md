@@ -9,7 +9,7 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 <br/>
 
 [![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
-[![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
+[![Total Downloads](https://img.shields.io/badge/DOWNLOADS-323-2EA44F?style=flat)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
 [![License](https://img.shields.io/badge/License-MIT-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/blob/main/LICENSE)
 
 <br/>
@@ -71,7 +71,7 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 | Build Profile | Version / Tag | Download & Real-time Metrics | Link |
 | :---: | :---: | :---: | :---: |
-| **Official Release** | `V1.0.0_Beta1` | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&color=238636&label=DOWNLOADS%20COUNT)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
+| **Official Release** | `V1.0.0_Beta1` | [![DOWNLOADS COUNT](https://img.shields.io/badge/DOWNLOADS-323-2EA44F?style=flat)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
 
 ---
 
