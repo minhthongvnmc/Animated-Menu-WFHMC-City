@@ -2,19 +2,22 @@
 
 # Animated Menu: WFHMC City
 
-### A Dynamic, Custom Main Menu & Visual Theme for Minecraft
+### A Dynamic & Custom Main Menu Project for Minecraft
 
 <br/>
 
-[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
+[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=dc3545&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
 [![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-v26.40-ff69b4?style=for-the-badge&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
 
 <br/>
 
-![Animated Menu Preview](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
+[**Download Release**](#-download--release-options) · [**Key Features**](#-key-features) · [**General Info**](#-general-information) · [**Community & Social**](#-discord-server)
 
 </div>
+
+---
+
+![Animated Menu Preview](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
 
 ---
 
@@ -25,21 +28,6 @@
 - **Author / Studio:** MinhthongVNMC Studio
 
 This project transforms Minecraft's default title screen into a stunning, colorful cityscape. Rather than just a standard Minecraft map, it represents a seamless blend of innovative building techniques and advanced graphical enhancements, delivering a peaceful, livable atmosphere set within the familiar WFHMC City.
-
----
-
-<div align="center">
-
-<h2><a id="download-options"></a>📥 Download Options & Live Analytics</h2>
-
-<h3>Official Releases</h3>
-
-| Build Profile | Managed By | Live Download Stats | Download Link |
-| :---: | :---: | :---: | :---: |
-| **Release Build (V1.0.0 Beta1)** | MinhthongVNMC Studio | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/V1.0.0_Beta1/total?style=flat-square&color=17a2b8&label=Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [**Get V1.0.0 Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
-| **All Releases Package** | MinhthongVNMC Studio | [![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=28a745&label=Total%20Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) | [**View Releases Page**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
-
-</div>
 
 ---
 
@@ -61,6 +49,16 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 * **Optimized User Interface:**
   * Preserves all essential menu navigation buttons (Play, Settings, Skins, Friends) for seamless usability.
   * Clean layout displaying version details (Minecraft v26.40) and standard copyright information.
+
+---
+
+### 📥 Download & Release Options
+
+Get the latest release of the Animated Menu for your Minecraft client below:
+
+| Package | Version / Metrics | Download Link |
+| :---: | :---: | :---: |
+| **Animated Menu WFHMC City** | [![Release Version](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=flat-square&color=dc3545&label=Release)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) [![Download Counts](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
 
 ---
 
