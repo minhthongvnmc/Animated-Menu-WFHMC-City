@@ -1,18 +1,17 @@
-# Animated Menu: WFHMC City
-
-Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, featuring a highly vibrant design and a distinctive visual style.
-
-![Animated Menu Preview](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
-
 <div align="center">
 
-<br/>
+# Animated Menu: WFHMC City
 
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
-[![Total Downloads](https://img.shields.io/badge/Downloads-Live%20Metrics-17a2b8?style=for-the-badge&labelColor=0d1117)](#download-options)
-[![Category](https://img.shields.io/badge/Category-Minecraft%20UI%20%2F%20Menu-ff9900?style=for-the-badge&labelColor=0d1117)](#general-information)
+### A Dynamic & Vibrant Custom Main Menu for Minecraft
 
 <br/>
+
+[![Latest Release](https://img.shields.io/badge/Release-V1.0.0__Beta1-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
+[![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
+
+<br/>
+
+![Animated Menu Preview](https://github.com/user-attachments/assets/fff95a95-a754-4102-b762-e4fa3c39fdf9)
 
 </div>
 
@@ -21,11 +20,11 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 # 📌 General Information
 
 - **Project Name:** Animated Menu: WFHMC City
-- **Project Type:** Minecraft Custom Main Menu & UI Background Pack
 - **Initial Release Date:** August 8, 2026
 - **Author / Studio:** MinhthongVNMC Studio
+- **Category:** Minecraft Custom Title Screen / Main Menu Pack
 
-This project transforms Minecraft's default title screen into a stunning, colorful cityscape. Rather than just a standard Minecraft map, it represents a seamless blend of innovative building techniques and advanced graphical enhancements, delivering a peaceful, livable atmosphere set within the familiar WFHMC City.
+This project transforms Minecraft's default title screen into a stunning, colorful cityscape background. Rather than just a standard Minecraft map, it represents a seamless blend of innovative building techniques and advanced graphical enhancements, delivering a peaceful, livable atmosphere set within the familiar WFHMC City.
 
 ---
 
@@ -52,15 +51,11 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 <div align="center">
 
-<h2><a id="download-options"></a>📥 Download Options & Store Outlets</h2>
+<h2>📦 Download & Releases</h2>
 
-### Official Releases & Distribution
-
-| Platform / Source | Status | Download Link | Lượt tải / Metrics |
-| :--- | :---: | :---: | :---: |
-| **Official Modrinth** | Active | [**Get on Modrinth**](#) | [![Modrinth Downloads](https://img.shields.io/badge/Downloads-Active-1ba345?style=flat-square&logo=modrinth&logoColor=white)](#) |
-| **Official CurseForge** | Active | [**Get on CurseForge**](#) | [![CurseForge Downloads](https://img.shields.io/badge/Downloads-Active-f16436?style=flat-square&logo=curseforge&logoColor=white)](#) |
-| **Direct Download (ZIP / Pack)** | Official | [**Download Latest Pack**](#) | [![Direct Downloads](https://img.shields.io/badge/Total-Updated-17a2b8?style=flat-square)](#) |
+| Build Edition | Maintainer | Release Link | Download Metrics |
+| :---: | :---: | :---: | :---: |
+| **V1.0.0 Beta 1** | MinhthongVNMC Studio | [**Download Release**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
 
 </div>
 
@@ -91,14 +86,3 @@ Join our Discord community to stay up to date with the latest news and updates!
 
 For inquiries or support, please reach out via email:  
 **minhthongvnmcstudio@gmail.com**
-
----
-
-<div align="center">
-
-## 📄 Disclaimer
-
-This project is a custom Minecraft UI modification / background pack created by **MinhthongVNMC Studio**.  
-Minecraft is a trademark of **Mojang Synergies AB / Microsoft Corporation**. This project is not officially affiliated with, endorsed, or sponsored by Mojang or Microsoft.
-
-</div>
