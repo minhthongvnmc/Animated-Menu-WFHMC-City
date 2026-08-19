@@ -8,8 +8,8 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 
 <br/>
 
-[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
-[![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
+[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
+[![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
 [![License](https://img.shields.io/badge/License-MIT-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/blob/main/LICENSE)
 
 <br/>
@@ -24,8 +24,8 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 > # PROJECT OVERVIEW
 > **Animated Menu: WFHMC City** is a visual and graphic enhancement pack designed specifically for Minecraft UI/Title Screen. It replaces standard backgrounds with a fully animated, high-quality cityscape theme.
 
-> [!IMPORTANT]
-> # SYSTEM REQUIREMENT
+> [!WARNING]
+> # IMPORTANT NOTICE
 > Ensure your client environment supports custom title screen shaders and menu modifications for full visual compatibility and optimal animation performance.
 
 ---
@@ -66,9 +66,9 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 ### Official Downloads
 
-| Build Profile | Version / Tag | Real-time Download Metrics | Download Link |
+| Build Profile | Version / Tag | Download & Real-time Metrics | Link |
 | :---: | :---: | :---: | :---: |
-| **Official Release** | `V1.0.0_Beta1` | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Live%20Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) | [**Download Latest Release**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
+| **Official Release** | `V1.0.0_Beta1` | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Total%20Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
 
 ---
 
@@ -102,6 +102,6 @@ For inquiries or support, please reach out via email:
 
 ## 📜 Disclaimer & License
 
-This project is an unofficial custom main menu modification for Minecraft. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This project is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
+This project is an unofficial fan-made custom main menu modification for Minecraft. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This project is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
 
 All rights to assets, build designs, and media contained in this project belong to **MinhthongVNMC Studio** and their respective owners.
