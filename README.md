@@ -8,8 +8,8 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 
 <br/>
 
-[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
-[![Total Downloads](https://img.shields.io/badge/DOWNLOADS-323-2EA44F?style=flat)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
+[![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?include_prereleases&style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
+[![Total Downloads](https://img.shields.io/github/downloads-pre/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
 [![License](https://img.shields.io/badge/License-MIT-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/blob/main/LICENSE)
 
 <br/>
@@ -69,9 +69,12 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 ### Official Downloads
 
-| Build Profile | Version / Tag | Download & Real-time Metrics | Link |
-| :---: | :---: | :---: | :---: |
-| **Official Release** | `V1.0.0_Beta1` | [![DOWNLOADS COUNT](https://img.shields.io/badge/DOWNLOADS-323-2EA44F?style=flat)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
+| Feature | Details |
+| :--- | :--- |
+| **RELEASE** | [![Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?include_prereleases&style=for-the-badge&color=2EA44F&label=)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
+| **LICENSE** | [![License](https://img.shields.io/badge/MIT-D97706?style=for-the-badge)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/blob/main/LICENSE) |
+| **DOWNLOADS** | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
+| **DOWNLOADS COUNT** | [![Downloads](https://img.shields.io/github/downloads-pre/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&color=2EA44F&label=DOWNLOADS)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
 
 ---
 
